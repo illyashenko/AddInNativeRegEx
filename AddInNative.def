@@ -1,0 +1,7 @@
+LIBRARY    "AddInNativeRegEx.dll"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+
